@@ -1,0 +1,6 @@
+/scraper
+/raw
+*/__pycache__
+*/.ipynb_checkpoints
+*/model
+*/train
